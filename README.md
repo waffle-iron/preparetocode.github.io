@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/preparetocode/preparetocode.github.io.png?label=ready&title=Ready)](https://waffle.io/preparetocode/preparetocode.github.io)
 # preparetocode
 
 ### Developing locally
