@@ -23,6 +23,9 @@ configure :development do
   activate :livereload
 end
 
+config[:trailing_slash] = false
+
+activate :directory_indexes
 ###
 # Helpers
 ###
