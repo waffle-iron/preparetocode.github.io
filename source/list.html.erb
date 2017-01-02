@@ -1,0 +1,14 @@
+---
+title: Welcome to Middleman
+---
+
+<div class="">
+  <% data.posts.each do |title, posts| %>
+    <% next if posts.empty? %>
+    <h1><%= title.capitalize %></h1>
+    <% posts.each do |post| %>
+      <li><a href="<%= post.href %>"><%= post.title%></a></li>
+    <% end %>
+
+  <% end %>
+</div><!-- .welcome -->

@@ -1,0 +1,15 @@
+{
+  "required": [
+    { "title": "Ruby", "href": "ruby" },
+    { "title": "Node", "href": "node" }
+  ],
+  "useful": [
+    { "title": "Vim", "href": "vim" },
+    { "title": "Homebrew", "href": "homebrew" }
+  ],
+  "advanced": [
+    { "title": "Postgres", "href": "postgres" },
+    { "title": "Heroku", "href": "heroku" }
+  ],
+  "new": []
+}
